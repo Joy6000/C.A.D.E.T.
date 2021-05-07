@@ -4,3 +4,5 @@
 
 # Set Aside 
 - Make Class
+- Better Security
+- - Such as a password needed to use the "decode" function.
